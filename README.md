@@ -1,2 +1,1 @@
-# maze-python
-maze python
+создадите папку images и добавите туда свои картинки
